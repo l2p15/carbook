@@ -1,1 +1,0 @@
-zip -r carbook.xpi *
